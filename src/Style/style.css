@@ -1,0 +1,12 @@
+.container{
+    margin-top: 10px;
+}
+
+.pull-left{
+    display: inline-block;
+}
+
+.thumbnail-image {
+    width: 25px;
+    border-radius: 50%;
+}
