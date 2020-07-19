@@ -1,6 +1,5 @@
 import * as React from "react";
 
-import "react-datepicker/dist/react-datepicker.css";
 import {connect} from "react-redux";
 import {getCompaniesData, register} from "../../Redux/Actions/user";
 import ReactFormInputValidation from "react-form-input-validation";

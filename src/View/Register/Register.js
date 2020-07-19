@@ -1,7 +1,6 @@
 import * as React from "react";
 import {Link, Redirect} from "react-router-dom";
 
-import "react-datepicker/dist/react-datepicker.css";
 import {connect} from "react-redux";
 import {register} from "../../Redux/Actions/user";
 import Form from "../Form/Form";
